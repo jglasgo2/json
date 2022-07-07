@@ -1,0 +1,32 @@
+[
+     {
+      "abbreviation": "CLE",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "international": "Yes"
+     },
+     {
+      "abbreviation": "MCO",
+      "city": "Orlando",
+      "state": "Florida",
+      "international": "Yes"
+      },
+      {
+      "abbreviation": "PHX",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "international": "Yes"
+      },
+      {
+      "abbreviation": "CAK",
+      "city": "Akron",
+      "state": "Ohio",
+      "international": "No"
+      },
+      {
+      "abbreviation": "1G3",
+      "city": "Stow",
+      "state": "Ohio",
+      "international": "No"
+    }
+]
