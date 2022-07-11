@@ -1,6 +1,6 @@
 [
   {
-    "brand": "Body Fortress",
+    "brand": "BodyFortress",
     "id": 1,
     "price": 29.49,
     "flavor": "Strawberry",
@@ -10,7 +10,7 @@
     "organic": "no"
   },
   {
-    "brand": "GNC AMP",
+    "brand": "GNC-AMP",
     "id": 2,
     "price": 64.99,
     "flavor": "Mint",
@@ -23,7 +23,7 @@
     "brand": "Vedge",
     "id": 3,
     "price": 53.96,
-    "flavor": "Peanut Butter",
+    "flavor": "Peanut-Butter",
     "calories": 180,
     "protein": 25,
     "vegan": "yes",
@@ -33,7 +33,7 @@
     "brand": "Orgain",
     "id": 4,
     "price": 26.99
-    "flavor": "Peanut Butter",
+    "flavor": "Chocolate",
     "calories": 150,
     "protein": 21,
     "vegan": "yes",
